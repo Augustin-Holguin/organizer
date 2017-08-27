@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #ee4f4f;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+  font-size: 3em;
+}
+
+#organizer {
+  text-align: center;
+  padding-top: 50px;
+}
