@@ -12,11 +12,20 @@ html {
 h1 {
   text-align: center;
   color: white;
-  padding-top: 50px;
+  margin-top: 50px;
   font-size: 3em;
 }
 
 #organizer {
   text-align: center;
   padding-top: 50px;
+}
+
+li {
+  color: #168eea;
+  display: inline-block;
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px 20px;
+  font-weight: bold;
 }
